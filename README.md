@@ -1,0 +1,2 @@
+# gitbashproject
+first project
